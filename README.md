@@ -1,4 +1,4 @@
-# Responsive React Dashboard with Tailwind CSS
+# Admin Dashboard using React + Tailwind CSS
 
 
 
